@@ -1,0 +1,15 @@
+/workspaces/miPrimerRepo/proyecto1/bin/Debug/net10.0/proyecto1
+/workspaces/miPrimerRepo/proyecto1/bin/Debug/net10.0/proyecto1.deps.json
+/workspaces/miPrimerRepo/proyecto1/bin/Debug/net10.0/proyecto1.runtimeconfig.json
+/workspaces/miPrimerRepo/proyecto1/bin/Debug/net10.0/proyecto1.dll
+/workspaces/miPrimerRepo/proyecto1/bin/Debug/net10.0/proyecto1.pdb
+/workspaces/miPrimerRepo/proyecto1/obj/Debug/net10.0/proyecto1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/miPrimerRepo/proyecto1/obj/Debug/net10.0/proyecto1.AssemblyInfoInputs.cache
+/workspaces/miPrimerRepo/proyecto1/obj/Debug/net10.0/proyecto1.AssemblyInfo.cs
+/workspaces/miPrimerRepo/proyecto1/obj/Debug/net10.0/proyecto1.csproj.CoreCompileInputs.cache
+/workspaces/miPrimerRepo/proyecto1/obj/Debug/net10.0/proyecto1.sourcelink.json
+/workspaces/miPrimerRepo/proyecto1/obj/Debug/net10.0/proyecto1.dll
+/workspaces/miPrimerRepo/proyecto1/obj/Debug/net10.0/refint/proyecto1.dll
+/workspaces/miPrimerRepo/proyecto1/obj/Debug/net10.0/proyecto1.pdb
+/workspaces/miPrimerRepo/proyecto1/obj/Debug/net10.0/proyecto1.genruntimeconfig.cache
+/workspaces/miPrimerRepo/proyecto1/obj/Debug/net10.0/ref/proyecto1.dll
